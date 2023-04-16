@@ -1,1 +1,1 @@
-# azure-openai
+# Azure OpenAI
